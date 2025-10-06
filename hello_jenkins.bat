@@ -6,4 +6,5 @@ echo this is the second changes
 dir
 mkdir testfolder
 dir
+echo this for today
 pause
