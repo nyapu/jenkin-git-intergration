@@ -1,3 +1,4 @@
+python hellowworld.py
 @echo off
 echo Hello Jenkins!
 echo Script running from CMD without WSL
